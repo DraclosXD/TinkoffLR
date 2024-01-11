@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Греча",
+      "body": "Крупа гречневая",
+      "img": "https://images-eu.ssl-images-amazon.com/images/I/51ereK%2BAbdL._UL1000_.jpg",
+      "code": "1",
+      "country": "Россия"
+    },
+    {
+      "title": "Рис",
+      "body": "Краснодарский рис",
+      "img": "https://palladi.ru/upload/iblock/1b2/1b2e89e6b3921a63e7b48a4a0f3dff46.jpg",
+      "code": "2",
+      "country": "Россия",
+      "id": 2
+    }
+  ],
+  "creatorInfo": {
+    "name": "Юров Юрий",
+    "group": "6408",
+    "repo": "https://github.com/DraclosXD/"
+  }
+}
