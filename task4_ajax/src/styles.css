@@ -1,0 +1,23 @@
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    padding-inline: 15px;
+    background-color: #D9D9D9;
+}
+.info-container{
+    display: flex;
+    padding-inline: 15px;
+    justify-content: space-between;
+    margin-top: 2%;
+}
+
+.info_items{
+    margin-top: 2%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 45%;
+}
